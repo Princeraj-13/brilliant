@@ -170,6 +170,12 @@
 }
 
 @media only screen and (max-width: 991px) {
+    .header-top{
+        display: none;
+    }
+    .menu-right-content{
+        display: none;
+    }
     .activities-section .single-item {
         padding-top: 80px;
     }
@@ -555,6 +561,7 @@
     }
     .page-title {
         padding-top: 80px;
+        margin-top: auto;
     }
     .page-title .title {
         margin-bottom: 50px;
@@ -888,21 +895,21 @@
 
 @media only screen and (max-width: 499px) {
     .main-header .logo-box {
-        float: none !important;
+        /* float: none !important; */
         display: block;
-        text-align: center;
+        /* text-align: center; */
     }
     .main-header .menu-area {
         float: none !important;
         display: block;
         text-align: center;
-        padding-bottom: 25px;
+        /* padding-bottom: 25px; */
     }
     .main-header .menu-right-content {
         margin-top: 0px;
     }
     .menu-area .mobile-nav-toggler {
-        margin-top: 3px;
+        margin-top: 35px;
     }
     .mobile-menu {
         width: 100%;
