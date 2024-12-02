@@ -757,7 +757,7 @@
 
  .header-top .info-list li:last-child a:before {
      position: absolute;
-     content: "\f107";
+     /* content: "\f107"; */
      font-family: 'Font Awesome 5 Pro';
      font-size: 14px;
      top: 1px;
@@ -7741,6 +7741,7 @@
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
+     margin-top: 100px;
  }
 
  .page-title:before {
