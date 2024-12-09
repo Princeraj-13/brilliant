@@ -4397,7 +4397,6 @@
 
  .funfact-section {
      position: relative;
-     padding-top: 103px;
  }
 
  .funfact-section .pattern-layer {
@@ -4476,7 +4475,7 @@
  .twitter-feed .inner-content .single-item {
      position: relative;
      float: left;
-     width: 34%;
+     width: 65%;
  }
 
  .twitter-feed .inner-content .single-item:first-child {
@@ -4486,7 +4485,7 @@
  .twitter-feed .inner-content .single-item .title-box {
      position: relative;
      display: block;
-     padding: 72px 30px 62px 30px;
+     padding: 72px 30px 21px 30px;
  }
 
  .twitter-feed .inner-content .single-item .title-box .pattern {
@@ -4555,7 +4554,7 @@
  .twitter-feed .inner-content .single-item .inner-box {
      position: relative;
      display: block;
-     padding: 46px 30px 45px 30px;
+     padding: 15px 30px 0px 30px;
      border: 1px solid #e6e6ea;
  }
 
